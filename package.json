@@ -28,7 +28,13 @@
   },
   "contributors": [],
   "engines": {
-    "node": "^18.18.0 || ^20.9.0 || >=21.1.0"
+    "node": "^18.18.0 || ^20.9.0 || >=21.1.0",
+    "npm": "Use pnpm instead of npm."
   },
-  "scripts": {}
+  "scripts": {
+    "preinstall": "npx only-allow pnpm"
+  },
+  "devDependencies": {
+    "only-allow": "^1.2.1"
+  }
 }

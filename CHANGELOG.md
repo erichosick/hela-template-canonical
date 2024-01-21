@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.9.0](https://github.com/erichosick/hela-template-canonical/compare/v1.8.0...v1.9.0) (2024-01-21)
+
+
+### Features
+
+* **setup:** use eslint + flat config to lint files in visual studio code ([e9f50a4](https://github.com/erichosick/hela-template-canonical/commit/e9f50a4e2239909c7734262b4990efc515812215)), closes [#10](https://github.com/erichosick/hela-template-canonical/issues/10)
+
 ## [1.8.0](https://github.com/erichosick/hela-template-canonical/compare/v1.7.0...v1.8.0) (2024-01-21)
 
 

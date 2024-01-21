@@ -35,12 +35,14 @@
     "preinstall": "npx only-allow pnpm",
     "postinstall": "husky install .config/husky",
     "prepare": "husky install .config/husky",
-    "commitlint": "npx commitlint --config=.config/commitlint.config.mjs --strict --verbose"
+    "commitlint": "npx commitlint --config=.config/commitlint.config.mjs --strict --verbose",
+    "release": "standard-version && git push --follow-tags origin main"
   },
   "devDependencies": {
     "@commitlint/cli": "^18.4.4",
     "@commitlint/config-conventional": "^18.4.4",
     "husky": "^8.0.3",
-    "only-allow": "^1.2.1"
+    "only-allow": "^1.2.1",
+    "standard-version": "^9.5.0"
   }
 }

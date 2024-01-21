@@ -32,9 +32,12 @@
     "npm": "Use pnpm instead of npm."
   },
   "scripts": {
-    "preinstall": "npx only-allow pnpm"
+    "preinstall": "npx only-allow pnpm",
+    "postinstall": "husky install .config/husky",
+    "prepare": "husky install .config/husky"
   },
   "devDependencies": {
+    "husky": "^8.0.3",
     "only-allow": "^1.2.1"
   }
 }

@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/erichosick/hela-template-canonical/compare/v1.1.0...v1.2.0) (2024-01-21)
+
+
+### Features
+
+* **setup:** license.txt file ([7879d6a](https://github.com/erichosick/hela-template-canonical/commit/7879d6a9d122963ed80242c465c4fd132d787e48)), closes [#3](https://github.com/erichosick/hela-template-canonical/issues/3)
+
 ## [1.1.0](https://github.com/erichosick/hela-template-canonical/compare/v1.0.0...v1.1.0) (2024-01-21)
 
 

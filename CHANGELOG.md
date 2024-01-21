@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.10.0](https://github.com/erichosick/hela-template-canonical/compare/v1.9.0...v1.10.0) (2024-01-21)
+
+
+### Features
+
+* **setup:** watch eslint with nodemon ([b3277cc](https://github.com/erichosick/hela-template-canonical/commit/b3277cc326436a90c8650dbb72b50bbfd6d297a1)), closes [#11](https://github.com/erichosick/hela-template-canonical/issues/11)
+
 ## [1.9.0](https://github.com/erichosick/hela-template-canonical/compare/v1.8.0...v1.9.0) (2024-01-21)
 
 

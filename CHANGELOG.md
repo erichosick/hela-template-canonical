@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/erichosick/hela-template-canonical/compare/v1.2.0...v1.3.0) (2024-01-21)
+
+
+### Features
+
+* **setup:** create gitignore file with focus on node, pnpm and mac OS ([71e1272](https://github.com/erichosick/hela-template-canonical/commit/71e1272c906988ec01fa7b39b85cd7c036f4fea6)), closes [#4](https://github.com/erichosick/hela-template-canonical/issues/4)
+
 ## [1.2.0](https://github.com/erichosick/hela-template-canonical/compare/v1.1.0...v1.2.0) (2024-01-21)
 
 

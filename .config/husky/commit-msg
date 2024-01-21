@@ -6,3 +6,6 @@ pnpm commitlint --edit $1
 
 #validate the files that have changed using eslint
 pnpm eslint 
+
+#validate the files that have changed using eslint
+pnpm eslint 

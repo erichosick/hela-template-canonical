@@ -3,3 +3,6 @@
 
 #validate the commit message
 pnpm commitlint --edit $1
+
+#validate the files that have changed using eslint
+pnpm eslint 

@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.6.0](https://github.com/erichosick/hela-template-canonical/compare/v1.5.0...v1.6.0) (2024-01-21)
+
+
+### Features
+
+* **setup:** commit message linting with commitlint ([0aa6376](https://github.com/erichosick/hela-template-canonical/commit/0aa63763a4aa467bbad1d6898f14a0d1522e9d1c)), closes [#7](https://github.com/erichosick/hela-template-canonical/issues/7)
+
 ## [1.5.0](https://github.com/erichosick/hela-template-canonical/compare/v1.4.0...v1.5.0) (2024-01-21)
 
 

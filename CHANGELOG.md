@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.11.0](https://github.com/erichosick/hela-template-canonical/compare/v1.10.0...v1.11.0) (2024-01-21)
+
+
+### Features
+
+* **setup:** debug eslint in vscode ([0ba41bb](https://github.com/erichosick/hela-template-canonical/commit/0ba41bb21fc7c0e1fbd0e828588a6998b9686b65)), closes [#12](https://github.com/erichosick/hela-template-canonical/issues/12)
+
 ## [1.10.0](https://github.com/erichosick/hela-template-canonical/compare/v1.9.0...v1.10.0) (2024-01-21)
 
 

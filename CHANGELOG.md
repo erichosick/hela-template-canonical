@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.4.0](https://github.com/erichosick/hela-template-canonical/compare/v1.3.0...v1.4.0) (2024-01-21)
+
+
+### Features
+
+* **setup:** enforce pnpm usage ([d01967e](https://github.com/erichosick/hela-template-canonical/commit/d01967ed5c0469c65e41893bcb43072d3e4e2bc8)), closes [#5](https://github.com/erichosick/hela-template-canonical/issues/5)
+
 ## [1.3.0](https://github.com/erichosick/hela-template-canonical/compare/v1.2.0...v1.3.0) (2024-01-21)
 
 
